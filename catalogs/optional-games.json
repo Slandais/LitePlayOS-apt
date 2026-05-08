@@ -1,0 +1,18 @@
+[
+  {
+    "id": "supertux",
+    "name": "SuperTux",
+    "package": "supertux",
+    "description": "Jeu de plateforme 2D open source.",
+    "command": "supertux2",
+    "installed_check": "supertux2"
+  },
+  {
+    "id": "supertuxkart",
+    "name": "SuperTuxKart",
+    "package": "supertuxkart",
+    "description": "Jeu de kart 3D open source.",
+    "command": "supertuxkart",
+    "installed_check": "supertuxkart"
+  }
+]
