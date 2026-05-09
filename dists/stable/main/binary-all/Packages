@@ -2,12 +2,28 @@ Package: liteplay-launcher
 Version: 0.3.0
 Architecture: all
 Maintainer: LitePlayOS
-Depends: python3, python3-pygame, fonts-dejavu
+Depends: python3, python3-pygame-ce | python3-pygame, fonts-dejavu
 Filename: pool/main/l/liteplay-launcher/liteplay-launcher_0.3.0_all.deb
-Size: 11446686
-MD5sum: db9e5f07dd3ca31f0c70470143f825e9
-SHA1: 6e96d278b00280bdd055b1692576403c3dc62a25
-SHA256: 19fb1d182464ce83d9a387804f5b9e5226fd989b3796cc7c8ac744934969a413
+Size: 11450888
+MD5sum: 8ee2f73d5f8342fbb6dbbc15de595c4d
+SHA1: 49d97eb8861063ad45df8c8853fa847211b1dad4
+SHA256: 83c97735b47fe95d384a2c01cab701cce2e608ad09203afe191a3144c59583ce
+Section: games
+Priority: optional
+Description: LitePlay launcher, games and shared runtime
+ Launcher desktop pour LitePlayOS, avec runtime Python partage,
+ jeux integres et assets mutualises.
+
+Package: liteplay-launcher
+Version: 0.3.1
+Architecture: all
+Maintainer: LitePlayOS
+Depends: python3, python3-pygame-ce | python3-pygame, fonts-dejavu
+Filename: pool/main/l/liteplay-launcher/liteplay-launcher_0.3.1_all.deb
+Size: 11450796
+MD5sum: 790f10ec3b7828c43902e10b7fcab92e
+SHA1: 7f50d3999814628411419b923c07cd4e82d1dd6a
+SHA256: 277da594c70254b2579d1f1aa8c8e811b10e543248cd4f3b3a5aafd5cd96f558
 Section: games
 Priority: optional
 Description: LitePlay launcher, games and shared runtime
@@ -18,15 +34,33 @@ Package: liteplay-os-integration
 Version: 0.3.0
 Architecture: all
 Maintainer: LitePlayOS
-Depends: liteplay-launcher (= 0.3.0), xinit, xserver-xorg, x11-xserver-utils, xterm, systemd, apt
+Depends: liteplay-launcher (= 0.3.0), xinit, xserver-xorg, x11-xserver-utils, xterm, xdotool, network-manager, systemd, apt, sudo, curl
 Filename: pool/main/l/liteplay-os-integration/liteplay-os-integration_0.3.0_all.deb
-Size: 3604
-MD5sum: d5bb75f89522cebff1e623938e3793f8
-SHA1: bc8726e4ea430271b3e8151ba78d2a84fb1fdfa9
-SHA256: 57e87826a11e099e76973e14fac8c1aa4c7d9744da981eb4315611627b9ef4e6
+Size: 5396
+MD5sum: 4600dbc889e2910abb96ca60117e9555
+SHA1: 7c50a5c038626ac5e3f62b57260e3d09ddb81c4d
+SHA256: 08639dc192daa38082acd98b8c51cfe18fe096934e2f651fc429ad99bfc25553
 Section: misc
 Priority: optional
 Description: LitePlayOS specific launcher integration
  Integration systeme pour LitePlayOS : autologin tty1, startx,
- session kiosk du launcher et mecanisme de mise a jour APT.
+ session kiosk du launcher, configuration Wi-Fi, catalogue distant
+ de jeux optionnels et mecanisme de mise a jour APT.
+
+Package: liteplay-os-integration
+Version: 0.3.1
+Architecture: all
+Maintainer: LitePlayOS
+Depends: liteplay-launcher (= 0.3.1), xinit, xserver-xorg, x11-xserver-utils, xterm, xdotool, network-manager, systemd, apt, sudo, curl
+Filename: pool/main/l/liteplay-os-integration/liteplay-os-integration_0.3.1_all.deb
+Size: 5396
+MD5sum: 813ee35359874715debeb59edac980bc
+SHA1: 4d4b8da480607766c5e56a45c6976a7e67c182f9
+SHA256: 0a208859171d44341a13e260c2da432cd92e8d8e3a98643fc2cf328e58edc1ec
+Section: misc
+Priority: optional
+Description: LitePlayOS specific launcher integration
+ Integration systeme pour LitePlayOS : autologin tty1, startx,
+ session kiosk du launcher, configuration Wi-Fi, catalogue distant
+ de jeux optionnels et mecanisme de mise a jour APT.
 
