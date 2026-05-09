@@ -4,47 +4,47 @@ Hash: SHA512
 Architectures: amd64 all
 Codename: stable
 Components: main
-Date: Sat, 09 May 2026 08:16:11 +0000
+Date: Sat, 09 May 2026 08:23:55 +0000
 Label: LitePlayOS
 Origin: LitePlayOS
 Suite: stable
 MD5Sum:
- 1663e5dd367958f88c2efae242babe06              148 Release
- eb88edb43d46f1a3fd3937a7fa2ca24a             6715 main/binary-all/Packages
- e87bacf05cf9c7a40c005dad9782b3dd             1598 main/binary-all/Packages.gz
+ 098b3dda9d823433a97c882023337c1a              148 Release
+ 3989ea988ca538c30606f583ce6d6a40             8058 main/binary-all/Packages
+ 53895b1dbfca0cd67e125eef0ac6c19b             1809 main/binary-all/Packages.gz
  d41d8cd98f00b204e9800998ecf8427e                0 main/binary-amd64/Packages
- c0af6642414e1423ea8a5d9c9be8a999               29 main/binary-amd64/Packages.gz
+ cc03cd4c4e5538bd1028067282933654               29 main/binary-amd64/Packages.gz
 SHA1:
- 833542c75056d7dac1692b4cf5008cdc3b51feb3              148 Release
- 169fb48364892a256f9a36f0a7de997598801d4b             6715 main/binary-all/Packages
- 244dc02b1849e8eba650c42ef5d6d22005dbd48f             1598 main/binary-all/Packages.gz
+ de2a66d6fdc164186fd04f19dc8dc02749e37607              148 Release
+ c87fe6014af0d1ab515be3abe8889f04a4fd54b2             8058 main/binary-all/Packages
+ 6dfbf024cdcbfd3484455ff4f21ee0a2e1d64c05             1809 main/binary-all/Packages.gz
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-amd64/Packages
- bdb4f5181892cc7fdd11b3538518512a66c75ac6               29 main/binary-amd64/Packages.gz
+ fbc4d0179458985628ce42fdd71e9c8ae3cb3a00               29 main/binary-amd64/Packages.gz
 SHA256:
- 9e74148a24b1ef8caf203df6778c409efc8ec1faf7e265f296e42649937c76e8              148 Release
- 1b3bf016a86ba2b7eb77394d6524696cfdc056712a10e21d04e3e97102751478             6715 main/binary-all/Packages
- 051a27400695dd021a1ffa73c5ed46e3424169638743aad33c0575235057ca35             1598 main/binary-all/Packages.gz
+ 18732ac2ac1fb6614a1ee1ed3170f9f97acc109e98df1835a54d1965fe0a4afb              148 Release
+ b602aad91852d253115f9e018a60bc6bb0547e4eaa05770c28392df1019e6f62             8058 main/binary-all/Packages
+ e2110fb86fae0a492b8949c613c5c57387ff08d748a89f6aaabdbfa655b4ac74             1809 main/binary-all/Packages.gz
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-amd64/Packages
- f7896759f4ce1121a5b951e0f85fcb832ca091549f0bf205eafdff40856dab56               29 main/binary-amd64/Packages.gz
+ be43d411ca9eab2de188cc41a5f54441b02928115c088f4041ff6a52e0b6f97c               29 main/binary-amd64/Packages.gz
 SHA512:
- 3dc747d453e5bfb9b9a614c53297aba791f21bb66fbd8879d89e5deb8aeec2344bb7f2ef291356352c64ac527b2b64ad451c0afd2b2954575303b1b5d8790bf0              148 Release
- 2bee3bc0c6505117b0f48d2f7410f8c1d3dcc122e5e44518a855ec8e872a61a080183c119d97bcf00a9872331d9ba9cd2d2a7b0ba7066c66b6c572f65b867dc8             6715 main/binary-all/Packages
- 440a125cef4ca4e7719ef9740f51b9ddd4f6d16bb9f406154b7ecae0833deddcdac42f8b4b49ba6aa4db97cee8d52b052f7e6273c7065f33f128b80bfc5c502f             1598 main/binary-all/Packages.gz
+ 0d4a88e4d265cc5f11860d0d80b95e3e361f8fd0f620a8f3285063b2941ca398b330a34c8a3d9bec4486cadd7e380b4f28d1e7203952cc6219cf876b1a0452a1              148 Release
+ 92c0e8833e6870651b752c5959f011d8e9d4e6236d74b5f68373a65018a42fe9b7a894f46f9a54b123647e2f4445c7a3674214266a6a590457dff89bee59f4f6             8058 main/binary-all/Packages
+ f43797a187149e6f5358a5035630d5953ebc861994c3230ea84642c068b6b20424fb8ff5e2ff183597c5d5f4f05fe2d6b4b313ed98cba589cd4a2b440e6a47e3             1809 main/binary-all/Packages.gz
  cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-amd64/Packages
- 16c304109f9b0a4e8bb4839d5b1731551b0960f77696fbdac6d3570a484e24abf235b2e0debab175bae85e7f0930987f1755ddb07a24c19f0beabbdfbce85c4c               29 main/binary-amd64/Packages.gz
+ 19bf45ba2c36b05116ad1ea8e1569bc8882073254036091fb2542ae49b802fcfec6314d1d8b18ee1a93660b36ee7f78ed43e65781e81d82e4b373dd73a5d4838               29 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEhyeXJ7byLZd5HheGjt5ksrwY8WoFAmn+7UsACgkQjt5ksrwY
-8WpfYQ/9GUlCobgRnKjSRiYXH2oUN6cpOXfp5QvBHh1Z7eIE9/trtML7t64IceL4
-lXkXdgusQcw01QwWp6jH942qaO9sd25AOC6AwAmybK1I/YWPFUs3ITA4v6gV7G9/
-lDIQMI7Ihvi8dAsfuHy7c9lJWjrrqDinf+SO28QT+WDsTr2M+/SzX0tlVeo3XtXy
-lN/QG2hnxy+DJHBJMfisKywH4EC7T7ygjbQziY6mCMuktTxsmbXc1djg832IbRed
-XmVDYX13i4cSQD8AoGro98KvMDjv2Gx4RuSy6ERIBxzDmwE0CD/opAJIOoz8GyTp
-lNpmD2T2fjOnY7r8CZgUDdh+GcjVEYKhvJL3vsj+cPo90H31kh1wvCWmnT3mQYBC
-1IbCt2n8UFpn3qSeaLGlaHiXakp6p8BDE1ykGaowLGpmhiscBBTsbp+xWWl1VWtG
-YVA42Vil/HcLq8G1VpM2lqrak9qoAEYiwuaI6HOrLLNOOZck1dynYuk50aWTaXFh
-Xddi/c+29Qvv1AzcI4SVoX2jEqOwaDPPXsOvT56BSkXnh2zLFb5i2N4BfHyc0hvO
-X8KvypsEYTZeXyTtzCrRG7FiuZSb8aAmKAQwWW8/J3Desw0q3E6qpW6FjoN9THSC
-nIi7gPwnNzogP5+YfKor0WCWXqwkHmyLwktlWMOWmkPSAgKHOZM=
-=nuDX
+iQIzBAEBCgAdFiEEhyeXJ7byLZd5HheGjt5ksrwY8WoFAmn+7xsACgkQjt5ksrwY
+8WoqYA/+JzgnpfWRedC8g0p8iqjSABQKJdAm4x0CZ73fzoKNDS4vWvBLHi8eYXOY
+M7k85SmbyTi6dyaZ5Wgf4kJkjKhwO0Bw/pHbhTlBnedtEyKdpW5/jD0jrGC8we2L
+zDXZ5n5Ki7oCDNgYE0QVYkd048AE7Vr7IT6i+Ttl9WjAWo0davOuYxfyc17TFgMs
+mvMkWhOycLA2WxolCEosH1ZV+vi+94Zn6g4rzQFIdxxFchVQi6J8bn8vc2f7utWc
+wa9Km7QkVLl0y//Dfj4ot6rZ0KON0bbiunXCYo6gIbFIMFdqly/szmtyU2wEISLM
+HT/7tTP7MYyjkG+MCPer7P6cSb4TupgE5kgLmSBtINexnb5Zhl7jFkEx6vL+ms0R
+U20ju7koGiT/Lkzo34O6sSIdfSCsDO8Ld5VuMsHMwwpMhUnVWP2yik4FE1re5QTz
+Til85r0ffc1lxgmkDdTWgFNZDQb6uHvbYh1L+237kgvc24+CDf3CgVcQnZCMxoX2
+7qOhgNkJ8bi5mWu87Y+MTK0Kx6UHE0A8L/sLUoIbPyrKM3u/hJdKJx0EUCCH6Gem
+ppj3V9r9BotQbn/ERHjbdRpM5vB5n69lgkSqBi+zrfNasDUnBHq1Zk8NMtzkHiPD
+NtCjeu7aSCZQLdwGRIdcH0CRcj4MyWqqYhCjFcYeKUBgfa+/4+0=
+=fQko
 -----END PGP SIGNATURE-----
